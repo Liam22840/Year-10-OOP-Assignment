@@ -934,9 +934,13 @@ Introduce a new `Bullet` class to handle bullet behaviour.
 
 ### Implementation
 
-Add the `Bullet` class under the `# --------------------------------------------------------------------------
+Add the `Bullet` class under the section labelled: 
+
+```python
+# --------------------------------------------------------------------------
 #                            BULLET CLASS
-# --------------------------------------------------------------------------` section:
+# --------------------------------------------------------------------------
+```
 
 ```python
 class Bullet:
